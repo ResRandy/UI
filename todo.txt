@@ -1,0 +1,25 @@
+1. Get Tkinter to display main menu
+    T1. Understand the materials it needs to run and why.
+    T2. Understand how well the menu works on things like the corner of the screen.
+    T3. 
+2. Get map and todo to be present on the screen.
+    a. Either you could have multiple screens that have priority over others
+        P. Finding the best place to put the info without getting in the way
+        P. Make each screen immovable
+        P. Make it present over all other screens other than overlays
+    b. You could have one screen that you could access other apps through
+        either have the app interact with the apps that are behind it.
+            P. 
+        Could make it into more of an overlay that would betransparent and send notifications to you about updates
+            P. This would have to create notifications and send directly to windows or have a popup present while you are doing other things
+
+-- optional --
+1. Highlight words on the page that would potentially lead you to your work
+    Make it so that you can still click through them anyway to help.
+    This would also mean that there would have to be a search tool present within the app
+2. Highlight some of the hotkeys on the map for important things to look at.
+3. Have priority settings that are hidden
+4. Tool section. This would be a submenu that would help with managing progression or important information
+    a. saved section or save system so that the tool section isn't obliderated on close
+    b. optical tools/ things that would change the window because of things done.
+5. change to a more graphically different design other than Tkinter's basics.
